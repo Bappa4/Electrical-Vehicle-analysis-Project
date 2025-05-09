@@ -31,7 +31,10 @@ Examines how federal and state incentives influence EV adoption.
 # 📸 Dashboard Preview
 ![image](https://github.com/user-attachments/assets/8d0ded0f-dd50-493d-83c4-ed6840efb4db)
 
-# Thank you!
+# 📬 Feedback & Contributions:
+I'm always open to feedback or collaboration. If you have suggestions or want to contribute to this project, feel free to open an issue or pull request!
+# 🔗 Connect with me:
+Link: - <a href="https://www.linkedin.com/in/bappa-roy-723256345/">Linkedin</a>
 
 
 
